@@ -1,7 +1,6 @@
 ### 
 - Email: shawna.developer@icloud.com
 - HackerRank: https://www.hackerrank.com/profile/shawna_developer
-- DataCamp: https://www.datacamp.com/portfolio/shawnadeveloper
 
 <!--
 **ShawnaRobertson/ShawnaRobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
